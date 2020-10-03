@@ -18,19 +18,38 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+  description = "70%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "50%"  
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "25%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "50%"  
+ 
 [[feature]]
-  icon = "camera-retro"
+  icon = "vials"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Biomarkers"
+  description = "75%" 
+
+[[feature]]
+  icon = "notes-medical"
+  icon_pack = "fas"
+  name = "Clinical Trials"
+  description = "50%"  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
