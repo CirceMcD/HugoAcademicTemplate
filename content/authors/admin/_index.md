@@ -1,3 +1,4 @@
+---
 # Display name
 title: Circe McDonald
 
@@ -46,7 +47,7 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=9wI-yFcAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=9wI-yFcAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/CirceMcD
@@ -64,6 +65,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+# user_groups: []
 # - Researchers
 # - Visitors
+---
+- Circe McDonald is a human doing their best. 
