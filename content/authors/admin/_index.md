@@ -1,4 +1,3 @@
----
 # Display name
 title: Circe McDonald
 
@@ -18,7 +17,7 @@ organizations:
   url: "https://www.gilead.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging infectious diseases, bioinformatics, and programming.
+bio: I'm a test!
 
 interests:
 - Virology
@@ -29,10 +28,10 @@ education:
   courses:
   - course: MS - Computer Science 
     institution: GA Tech
-    year: 2023 (Expected) 
+    year: 2023 
   - course: MCIT
     institution: University of Pennsylvania 
-    year: 2020 (4 out 10 courses complete)
+    year: 2020
   - course: MPH - Biostatistics
     institution: Georgia State University
     year: 2017
@@ -62,3 +61,9 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups: []
+# - Researchers
+# - Visitors
