@@ -18,20 +18,21 @@ role: Clinical Data Scientist
 #  url: "https://www.gilead.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist working in pharma
+bio: Data scientist working in pharma.
 
 Interests:
 - Virology
 - Bioinformatics
 - Data Science
 - Data Visualization
+- Ethics
 
 education:
   courses:
   - course: MSCS - Machine Learning
     institution: GA Tech
     year: 2023 
-  - course: MCIT (particall
+  - course: MCIT (no degree awarded)
     institution: University of Pennsylvania 
     year: 2020
   - course: MPH - Biostatistics
@@ -57,6 +58,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/McDonald_Resume.pdf
+- icon: calendar-alt
+  icon_pack: fas
+  link: https://calendly.com/circemcd
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
