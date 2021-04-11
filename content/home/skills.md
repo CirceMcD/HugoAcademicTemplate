@@ -22,7 +22,7 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "50%"  
 
@@ -36,19 +36,37 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "50%"  
+  description = "60%"  
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "60%"
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Visualization"
+  description = "75%"  
  
 [[feature]]
   icon = "vials"
   icon_pack = "fas"
   name = "Biomarkers"
-  description = "75%" 
+  description = "80%" 
 
 [[feature]]
   icon = "notes-medical"
   icon_pack = "fas"
   name = "Clinical Trials"
-  description = "50%"  
+  description = "70%"  
+
+[[feature]]
+  icon = "viruses"
+  icon_pack = "fas"
+  name = "Virology"
+  description = "75%"  
 
 
 # Uncomment to use emoji icons.

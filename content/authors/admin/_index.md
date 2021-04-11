@@ -13,24 +13,25 @@ superuser: true
 role: Clinical Data Scientist
 
 # Organizations/Affiliations
-organizations:
-- name: Gilead Sciences
-  url: "https://www.gilead.com/"
+# organizations:
+# - name: Gilead Sciences
+#  url: "https://www.gilead.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a test!
+bio: Data scientist working in pharma
 
-interests:
+Interests:
 - Virology
 - Bioinformatics
+- Data Science
 - Data Visualization
 
 education:
   courses:
-  - course: MS - Computer Science 
+  - course: MSCS - Machine Learning
     institution: GA Tech
     year: 2023 
-  - course: MCIT
+  - course: MCIT (particall
     institution: University of Pennsylvania 
     year: 2020
   - course: MPH - Biostatistics
@@ -55,10 +56,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/McDonald_20200918.pdf
+  link: files/McDonald_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
