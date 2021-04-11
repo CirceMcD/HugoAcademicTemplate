@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 * Served as primary biomarker bioinformatics and biostatistics support for all ongoing HBV Cure trials. 
-*Conducted exploratory analysis in support of multiple phases of clinical trials in the areas of HBV, HIV, and CovID-19 using R and Python. Developed Tableau dashboards for dynamic data visualizations for these projects. 
-*Team member on a variety of machine learning projects including medical image analysis and natural language processing of medical documents. 
-*Conducted a variety of bioinformatic analyses including GWAS, single cell, and microbiome.
-*Led pipeline working group to automate data processing on on-prem, AWS, and Azure clusters.
-*Independently developed and implemented daily quality control reports for rapid assessment of newly received clinical data in python. Aggregated metrics from these reports to inform vendors and vendor managers of pain points.
-*Produced a variety of small automation scripts to improve response times and reduce recurring workloads.
+* Conducted exploratory analysis in support of multiple phases of clinical trials in the areas of HBV, HIV, and CovID-19 using R and Python. Developed Tableau dashboards for dynamic data visualizations for these projects. 
+* Team member on a variety of machine learning projects including medical image analysis and natural language processing of medical documents. 
+* Conducted a variety of bioinformatic analyses including GWAS, single cell, and microbiome.
+* Led pipeline working group to automate data processing on on-prem, AWS, and Azure clusters.
+* Independently developed and implemented daily quality control reports for rapid assessment of newly received clinical data in python. Aggregated metrics from these reports to inform vendors and vendor managers of pain points.
+* Produced a variety of small automation scripts to improve response times and reduce recurring workloads.
   """
 [[experience]]
   title = "Senior Research Associate"
