@@ -20,27 +20,27 @@ role: Clinical Data Scientist
 # Short bio (displayed in user profile at end of posts)
 bio: Data scientist working in pharma.
 
-Interests:
-- Virology
-- Bioinformatics
-- Data Science
-- Data Visualization
-- Ethics
+#Interests:
+#- Virology
+#- Bioinformatics
+#- Data Science
+#- Data Visualization
+#- Ethics
 
-education:
-  courses:
-  - course: MSCS - Machine Learning
-    institution: GA Tech
-    year: 2023 
-  - course: MCIT (no degree awarded)
-    institution: University of Pennsylvania 
-    year: 2020
-  - course: MPH - Biostatistics
-    institution: Georgia State University
-    year: 2017
-  - course: BS - Molecular and Cell Biology
-    instituion: Dominican University of California 
-    year: 2013
+# education:
+#  courses:
+#  - course: MSCS - Machine Learning
+#    institution: GA Tech
+#    year: 2023 
+#  - course: MCIT (no degree awarded)
+#    institution: University of Pennsylvania 
+#    year: 2020
+#  - course: MPH - Biostatistics
+#    institution: Georgia State University
+#    year: 2017
+#  - course: BS - Molecular and Cell Biology
+#    instituion: Dominican University of California 
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,4 +74,3 @@ highlight_name: false
 # - Researchers
 # - Visitors
 ---
-- Circe McDonald is a human doing their best. 
